@@ -1,7 +1,12 @@
+brias_codes
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
+# Vscode
+.vscode
 
 # C extensions
 *.so
